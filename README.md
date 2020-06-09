@@ -1,6 +1,8 @@
 # Quark with no timer
 Small things. Now with no 8 minute timer every time you try to play Minecraft.
 
+This mod is only for Minecraft 1.15.2, as that is the only one that has the timer.
+
 This mod requires [AutoRegLib](https://github.com/Vazkii/AutoRegLib).
 
 This mod does NOT need the original [Quark](https://github.com/Vazkii/Quark) (and will not run with the original Quark).
