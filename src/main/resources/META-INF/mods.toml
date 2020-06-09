@@ -4,11 +4,11 @@ issueTrackerURL="https://github.com/Vazkii/Quark"
 
 [[mods]]
 modId="quark"
-displayName="Quark"
+displayName="Quark (Modified)"
 version="${version}"
-authors="Vazkii, Wiiv, WireSegal, MCVinnyq"
+authors="Vazkii, Wiiv, WireSegal, MCVinnyq, TheTank20"
 description='''
-Small things.
+Small things. Now with no 8 minute timer.
 '''
 
 [[dependencies.quark]]
