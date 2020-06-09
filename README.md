@@ -12,3 +12,7 @@ This mod is compatible with [Quark Oddities](https://www.curseforge.com/minecraf
 This mod makes use of the [Java Universal Tween Engine](https://github.com/AurelienRibon/universal-tween-engine) by Aurelien Ribon, licensed under the Apache 2.0 License.  
 
 If this version of Quark is different from the previous version, you can make your own [here](https://github.com/thepwrtank18/Quark-No-Timer/blob/master/createyourown.md).
+---
+Versions explained:
+The numbers before the underscore is the version of Quark that is based off of this.
+The numbers after the underscore is the version of that, in case there is any issues.
