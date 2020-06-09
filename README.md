@@ -3,7 +3,7 @@ Small things. Now with no 8 minute timer.
 
 This mod requires [AutoRegLib](https://github.com/Vazkii/AutoRegLib).
 
-This mod does NOT need the original [Quark](https://github.com/Vazkii/Quark).
+This mod does NOT need the original [Quark](https://github.com/Vazkii/Quark) (and will not run with the original Quark).
 
 This mod is compatible with [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities).
 
