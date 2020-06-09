@@ -1,4 +1,4 @@
-# Quark
+# Quark with no timer
 Small things. Now with no 8 minute timer every time you try to play Minecraft.
 
 This mod requires [AutoRegLib](https://github.com/Vazkii/AutoRegLib).
