@@ -1,3 +1,6 @@
+# As of the latest Quark update, there is no reason for this fork to exist. This repository is being archived and the CurseForge page is being removed.
+
+
 # Quark with no timer
 Small things. Now with no 8 minute timer every time you try to play Minecraft.
 
